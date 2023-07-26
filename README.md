@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>Estimation through Non-Destructive Analysis of the Nutritional Levels of Citrus Leaves</title>
-</head>
 
 <body>
   <h1>🌳 Estimation through Non-Destructive Analysis of the Nutritional Levels of Citrus Leaves 🍊</h1>
