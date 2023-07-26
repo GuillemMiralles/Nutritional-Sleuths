@@ -5,14 +5,7 @@
 <body>
   <h1>🌳 Estimation through Non-Destructive Analysis of the Nutritional Levels of Citrus Leaves 🍊</h1>
 
-  <h2>📝 Introduction</h2>
-  <h1>🌳 Estimation through Non-Destructive Analysis of the Nutritional Levels of Citrus Leaves 🍊</h1>
-
-  <h2>📝 Introduction</h2>
-  <p>
-    Hello there! Welcome to the "Estimation through Non-Destructive Analysis of the Nutritional Levels of Citrus Leaves"
-    project! 🌿🔬
-  </p>
+  <h2>📝 Presentation</h2>
 
   <p>
 This is my Bachelor's Thesis, titled 'Estimation of Nutritional Levels of Citrus Leaves through Non-Destructive Analysis Using Machine and Deep Learning Techniques.' It has been an incredible journey of research and exploration, and obtaining a score of 9.7 fills me with immense pride. 🏅 I firmly believe in the potential of this work to bring significant social value by revolutionizing the way we monitor and manage citrus tree health. 🌳🍃
