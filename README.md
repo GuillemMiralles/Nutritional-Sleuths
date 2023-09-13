@@ -40,6 +40,7 @@
       summary of the work done, including fewer tests and nutrients examined. (Language: English)</li>
     <li><a href="ArticleICongress_Cas.pdf">ArticleICongress_Cas.pdf</a>: This is the Spanish version of the article
       presented at the Iberian Congress of Agroengineering. (Language: Spanish)</li>
+    <li><a href="TFG_presentation.pdf">TFG_presentation.pdf</a>: The presentation of my Final Degree Thesis. (Language: Catalan)</li>
   </ul>
 </body>
 
